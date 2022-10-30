@@ -1,0 +1,13 @@
+https://github.com/realm/realm-kotlin
+
+https://www.mongodb.com/docs/realm/
+
+https://www.youtube.com/watch?v=6vL5h8pbt5g&t=498s
+
+https://realm.io/realm-vs-sqlite/
+
+https://itnext.io/what-to-choose-realm-or-sqlite-with-room-e55c34b1675c
+
+https://medium.com/@farhanarnob/room-or-realm-database-for-android-2134773c1fa4'
+
+https://alexzh.com/jetpack-compose-building-grids/
